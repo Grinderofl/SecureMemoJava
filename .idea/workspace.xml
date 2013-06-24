@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/secureMemo/Crypto.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/nero.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/secureMemo/Crypto.java" afterPath="$PROJECT_DIR$/src/secureMemo/Crypto.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/secureMemo/Entry.java" afterPath="$PROJECT_DIR$/src/secureMemo/Entry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/secureMemo/Message.java" afterPath="$PROJECT_DIR$/src/secureMemo/Message.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/secureMemo/SecureMemo.java" afterPath="$PROJECT_DIR$/src/secureMemo/SecureMemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keys.xml" afterPath="$PROJECT_DIR$/keys.xml" />
     </list>
     <ignored path="SecureMemoJava.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Main.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372077655331" ignored="false" />
-    <file path="/fragment.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372028426417" ignored="false" />
+    <file path="/fragment.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372096307155" ignored="false" />
     <file path="/build.xml" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372062708231" ignored="false" />
     <file path="/keys.xml" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372058544616" ignored="false" />
     <file path="/Message.xml" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372031659527" ignored="false" />
-    <file path="/Entry.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372058552146" ignored="false" />
+    <file path="/Entry.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372096213780" ignored="false" />
     <file path="/Config.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372058891485" ignored="false" />
-    <file path="/Message.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372062638623" ignored="false" />
-    <file path="/MemoCrypto.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372078548400" ignored="false" />
+    <file path="/Message.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372094183807" ignored="false" />
+    <file path="/MemoCrypto.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372095657462" ignored="false" />
     <file path="/Utils.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372076785223" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372079273142" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372098332499" ignored="false" />
     <file path="/Dummy.txt" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372076830936" ignored="false" />
-    <file path="/SecureMemo.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372077829554" ignored="false" />
-    <file path="/Crypto.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372079220713" ignored="false" />
+    <file path="/SecureMemo.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372095598302" ignored="false" />
+    <file path="/Crypto.java" changelist="c010c9c9-cf15-440c-8bc7-ee5b6d07b8d6" time="1372098311531" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,22 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/secureMemo/Crypto.java" line="55" class="secureMemo.Crypto" package="secureMemo">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -81,7 +100,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secureMemo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="8" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+            <state line="18" column="47" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +111,18 @@
       <file leaf-file-name="SecureMemo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secureMemo/SecureMemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="54" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.0">
+            <state line="62" column="47" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/secureMemo/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,10 +133,19 @@
       <file leaf-file-name="Crypto.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/secureMemo/Crypto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="48" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.82474226">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.9278351">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Message.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/secureMemo/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="28" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,7 +162,7 @@
       <file leaf-file-name="Entry.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/secureMemo/Entry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+            <state line="16" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,13 +211,13 @@
         <option value="$PROJECT_DIR$/build.properties" />
         <option value="$PROJECT_DIR$/XML/Message.xml" />
         <option value="$PROJECT_DIR$/XML/keys.xml" />
-        <option value="$PROJECT_DIR$/src/secureMemo/Entry.java" />
         <option value="$PROJECT_DIR$/src/secureMemo/Config.java" />
-        <option value="$PROJECT_DIR$/src/secureMemo/Message.java" />
         <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/src/secureMemo/MemoCrypto.java" />
         <option value="$PROJECT_DIR$/src/secureMemo/Utils.java" />
         <option value="$PROJECT_DIR$/src/secureMemo/Main.java" />
+        <option value="$PROJECT_DIR$/src/secureMemo/Message.java" />
+        <option value="$PROJECT_DIR$/src/secureMemo/Entry.java" />
         <option value="$PROJECT_DIR$/src/secureMemo/SecureMemo.java" />
         <option value="$PROJECT_DIR$/src/secureMemo/Crypto.java" />
       </list>
@@ -414,7 +453,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -423,13 +462,13 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18432671" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33033708" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33002207" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -503,20 +542,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -566,16 +591,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/secureMemo/Message.java">
+    <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="69" selection-end="69" vertical-scroll-proportion="0.07727273">
+        <state line="25" column="54" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_26/jre/lib/rt.jar!/sun/security/rsa/RSAKeyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="2682" selection-end="2682" vertical-scroll-proportion="1.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_26/src.zip!/java/security/KeyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="303" column="0" selection-start="10135" selection-end="10135" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/secureMemo/Entry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="16" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secureMemo/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -589,16 +635,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="54" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/secureMemo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="8" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+        <state line="18" column="47" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -607,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/secureMemo/SecureMemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="54" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.0">
+        <state line="62" column="47" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/secureMemo/Crypto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="48" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.82474226">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.9278351">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -11,4 +11,5 @@ public class Message {
     public String fingerprint;
     public String key;
     public String data;
+    public String signature;
 }

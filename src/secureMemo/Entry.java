@@ -12,4 +12,8 @@ public class Entry {
     public String fingerprint;
     public String publicKey;
     public String privateKey;
+
+    public String getPublic() {
+        return publicKey;
+    }
 }

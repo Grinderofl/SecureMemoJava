@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="securememojava" default="all">
+
+    <path id="lib.path.ref">
+        <pathelement path="lib"/>
+        <pathelement path="${java.class.path}"/>
+        <!--<pathelement location="lib/xstream-1.4.4.jar"/>-->
+    </path>
+
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes/">
+            <classpath>
+                <path refid="lib.path.ref"/>
+                <pathelement location="lib/xstream-1.4.4.jar"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="jar">
+        <mkdir dir="build/jar"/>
+        <jar destfile="build/jar/Main.jar" basedir="build/classes">
+            <manifest>
+                <attribute name="Main-Class" value="secureMemo.Main"/>
+                <attribute name="Class-Path" value="xstream-1.4.4.jar commons-codec-1.8.jar"/>
+
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="copy">
+        <!--<copyfile src="XML/keys.xml" dest="build/jar/keys.xml"/>-->
+        <copy file="XML/keys.xml" tofile="build/jar/keys.xml"/>
+        <copy file="lib/xstream-1.4.4.jar" tofile="build/jar/xstream-1.4.4.jar"/>
+        <copy file="lib/commons-codec-1.8.jar" tofile="build/jar/commons-codec-1.8.jar"/>
+    </target>
+
+</project>

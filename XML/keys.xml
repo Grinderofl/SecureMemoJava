@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <entry>
+        <hint>Name</hint>
+        <fingerprint>
+            Public key fingerprint
+        </fingerprint>
+        <publicKey>
+            Public key here
+        </publicKey>
+        <privateKey>
+            Private key here
+        </privateKey>
+    </entry>
+    <keys>
+        <entry>
+            <hint>Name</hint>
+            <fingerprint>
+                Public key fingerprint
+            </fingerprint>
+            <publicKey>
+                Public key here
+            </publicKey>
+        </entry>
+    </keys>
+</config>
